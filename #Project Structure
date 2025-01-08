@@ -1,0 +1,23 @@
+fitness-tracker/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── fitness/
+│   │   │           ├── dao/
+│   │   │           │   └── UserDao.java
+│   │   │           ├── service/
+│   │   │           │   └── UserService.java
+│   │   │           └── model/
+│   │   │               └── User.java
+│   │   └── resources/
+│   ├── test/
+│       ├── java/
+│       │   └── com/
+│       │       └── fitness/
+│       │           ├── dao/
+│       │           │   └── UserDaoTest.java
+│       │           └── service/
+│       │               └── UserServiceTest.java
+│       └── resources/
+├── pom.xml
